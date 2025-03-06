@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me RAGUNATH
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer+and+UI/UX+Designer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer+'&'+UI/UX+Designer!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
