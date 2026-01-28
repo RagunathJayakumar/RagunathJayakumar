@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer!;UI/UX+Designer!;Software+Developer !; &font=Fira%20Code&color=red&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HI+there+It's+me+Ragunath!;Web+Developer!;UI/UX+Designer!;Software+Developer!; &font=Fira%20Code&color=red&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
