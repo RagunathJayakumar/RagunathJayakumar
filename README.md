@@ -26,7 +26,7 @@
 - 😄 Pronouns: Techie
 
 
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: I know Programing.
 
 
 ### I code in
